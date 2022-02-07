@@ -13,12 +13,6 @@
 </p>
 <hr>
 
-Discord: **Cafeiinado#0001**
-
-<hr>
-
-  ![Snake animation](https://github.com/zSpl1nterUS/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
-
 ```js
 
 const Discord = require("discord.js");
