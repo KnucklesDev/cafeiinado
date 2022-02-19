@@ -1,12 +1,6 @@
 <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" min-width="200px" max-width="200px" width="400px" align="right" alt="Computer">
 
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-3/914577400845721700.png" />
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/github/followers/zSpl1nterUS?label=Follow&style=social" alt="github followers" /><br>
-    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Cafeiinado&show_icons=true&theme=dark" alt="Ícaro" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cafeiinado&theme=dark" alt="Ícaro" />
    
