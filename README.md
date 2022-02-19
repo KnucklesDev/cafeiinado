@@ -15,7 +15,7 @@ Olá, meu nome é **Ícaro**, tenho 18 anos e moro na cidade de Salvador, BA. At
 </p>
 <hr>
 
-## 📋 Linguagens que utiliz em meus projetos.
+## 📋 Linguagens que utilizo em meus projetos.
 
 <code><img height="30" src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
