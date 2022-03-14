@@ -1,4 +1,4 @@
-## Vou realizarr mágicas no seu código! :zap:
+## Vou realizar mágicas no seu código! :zap:
 
 Olá, meu nome é **Ícaro**, tenho 18 anos e moro na cidade de Salvador, BA. Atualmente sou um desenvolvedor de bots para discord, mas estou estudando para me tornar um desenvolvedor de websites! :heart:
 
