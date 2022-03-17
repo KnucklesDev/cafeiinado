@@ -1,6 +1,6 @@
 ## Vou realizar mágicas no seu código! :zap:
 
-Olá, meu nome é **Ícaro**, tenho 18 anos e moro na cidade de Salvador, BA. Atualmente sou um desenvolvedor de bots para discord, mas estou estudando para me tornar um desenvolvedor de websites! :heart:
+Olá, meu nome é **Ícaro**, tenho 19 anos e moro na cidade de Salvador, BA. Atualmente sou um desenvolvedor de bots para discord, mas estou estudando para me tornar um desenvolvedor de websites! :heart:
 
 ## **Está afim de conversar?**
 - :speech_balloon: Me adicione no Discord: [`Cafeiinado#0001`](https://discord.com/users/914577400845721700)
