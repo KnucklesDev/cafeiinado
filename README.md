@@ -21,6 +21,7 @@ Olá, meu nome é **Ícaro**, tenho 19 anos e moro na cidade de Salvador, BA. At
 <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></code>
+<code><img height="30" src="https://img.shields.io/badge/quick.db-6DA55F?style=for-the-badge&logo=quick.db"></code>
 <code><img height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></code>
 
 ## 🚀 Programas que utilizo em meus projetos.
